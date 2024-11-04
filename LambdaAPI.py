@@ -56,7 +56,6 @@ Test the API:
 - You can test the API using curl from the terminal. Replace <API_ENDPOINT_URL> with your actual API endpoint:
 
 curl <API_ENDPOINT_URL>
-Expected Response:
 
 You should receive a response in JSON format, for example:
 
